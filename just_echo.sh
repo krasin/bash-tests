@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "lala"
+echo hello bash
